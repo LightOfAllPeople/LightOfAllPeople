@@ -1,4 +1,7 @@
-## Hi there 👋
+### > "Hello There! I'm LightOfAllPeople, Light for short! 🌟"
+
+## I'm wasting time doing nothing.
+- 👩‍💻👨‍💻 I’m currently learning Game Development and Programming
 
 <!--
 **LightOfAllPeople/LightOfAllPeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+a
